@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=W? NewDesignator=W1
+Change Component Designator: OldDesignator=W? NewDesignator=W2
+Change Component Designator: OldDesignator=W? NewDesignator=W3
+Change Component Designator: OldDesignator=W? NewDesignator=W4
+Change Component Designator: OldDesignator=W? NewDesignator=W5
+Change Component Designator: OldDesignator=W? NewDesignator=W6
+Change Component Designator: OldDesignator=W? NewDesignator=W7
+Change Net Name : Old Net Name=NetW?_2 New Net Name=NetW2_2
+Added Pin To Net: NetName=NetW1_2 Pin=W1-2
+Added Pin To Net: NetName=NetW1_2 Pin=W2-4
+Added Net: Name=NetW1_2
+Added Pin To Net: NetName=NetW3_2 Pin=W3-2
+Added Pin To Net: NetName=NetW3_2 Pin=W4-4
+Added Net: Name=NetW3_2
+Added Pin To Net: NetName=NetW4_2 Pin=W4-2
+Added Pin To Net: NetName=NetW4_2 Pin=W5-4
+Added Net: Name=NetW4_2
+Added Pin To Net: NetName=NetW5_2 Pin=W5-2
+Added Pin To Net: NetName=NetW5_2 Pin=W6-4
+Added Net: Name=NetW5_2
+Added Pin To Net: NetName=NetW6_2 Pin=W6-2
+Added Pin To Net: NetName=NetW6_2 Pin=W7-4
+Added Net: Name=NetW6_2
